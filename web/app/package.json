@@ -13,11 +13,11 @@
     "connected-react-router": "^6.8.0",
     "fuse.js": "^3.0.5",
     "history": "^4.6.3",
-    "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.11",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash": "^4.17.21",
     "mixpanel-browser": "^2.34.0",
     "object-assign": "4.1.1",
-    "prismjs": "^1.6.0",
+    "prismjs": "^1.27.0",
     "promise": "8.0.1",
     "query-string": "^6.3.0",
     "raf": "3.4.0",
@@ -74,8 +74,8 @@
     "less": "^3.12.2",
     "less-loader": "^7.0.1",
     "react-app-rewired": "^2.1.6",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.8.3",
-    "typescript-plugin-css-modules": "^2.4.0"
+    "typescript-plugin-css-modules": "^5.1.0"
   }
 }
